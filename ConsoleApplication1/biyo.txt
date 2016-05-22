@@ -1,0 +1,7 @@
+Match=1 Mismatch=-1 Gap=-1
+bacacababbaba
+abccabb
+ccccaaaaab
+ababcc
+bacbbbb
+
